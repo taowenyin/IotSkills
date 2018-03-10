@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AndroidAnalog</string>
+
+    <string-array name="com_array">
+        <item>COM0</item>
+        <item>COM1</item>
+        <item>COM2</item>
+        <item>COM3</item>
+        <item>COM4</item>
+        <item>COM5</item>
+        <item>COM6</item>
+        <item>COM7</item>
+        <item>COM8</item>
+        <item>COM9</item>
+    </string-array>
+    
+    <string-array name="rate_array">
+        <item>1200</item>
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>230400</item>
+        <item>921600</item>
+    </string-array>
+
+    <string-array name="mode_array">
+        <item>COM</item>
+        <item>USB</item>
+        <item>低频与超高频</item>
+    </string-array>
+</resources>

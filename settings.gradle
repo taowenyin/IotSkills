@@ -1,1 +1,1 @@
-include ':app', ':cameratest'
+include ':app', ':cameratest', ':androidanalog'
